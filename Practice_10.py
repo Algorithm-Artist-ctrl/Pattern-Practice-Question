@@ -1,6 +1,6 @@
 '''' I am using two functions (Practice_06 and Practice_10) to print the Diamond 
     but there is some change in my last function inverted Pyramid as you move forward 
-    you will be able understand how i Do it '''
+    you will be able to  understand how i Do it '''
 def generate_pyramid(n):
     """
     Function to return a pyramid pattern of '*' of side n as a list of strings.
